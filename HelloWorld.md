@@ -8,7 +8,10 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<<<<<<< HEAD
 ## This is a markdown file
+=======
+>>>>>>> 3650797a6892209917c5410e258357c9deab34b3
 
 ## R Markdown
 
